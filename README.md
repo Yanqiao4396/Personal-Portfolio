@@ -1,1 +1,2 @@
 # Personal-Portfolio
+This is a personal Portfolio made by Yanqiao Chen. The template source comes from https://www.macodeid.com/. The purpose of this Portfolio is to show personalities, skills and talents. This portfolio is mainly used for hiring purpose so if you are hiring and luckily read this readme file, I really appreciate it. As being seen, there are still multiple places in this portfolio could be improved so you have any advice, please let me know. Here is my email: chenyqiao1126@gmail.com
