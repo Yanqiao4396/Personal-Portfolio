@@ -19,6 +19,9 @@
     z-index: 1;
     margin-top: 20px;
 }
+.blog-date{
+    color: #0CBBCA;
+}
 .vg-footer{
     height: 10px;
 }
