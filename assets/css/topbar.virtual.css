@@ -458,6 +458,9 @@
   padding: 50px 0;
   background-color: #171925;
   color: #9FA2AB;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 .footer-info {

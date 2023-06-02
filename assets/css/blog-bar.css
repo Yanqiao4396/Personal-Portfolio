@@ -1,0 +1,24 @@
+.blog-header{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+    color: #0288DF;
+}
+.blog-des{
+    color:#C5C5C5;
+}
+.blog-section {
+    border: 4px solid #EFEFEF; 
+    width: 1000px;
+    height: 100px;
+    left: 30px;
+    margin: auto;
+    padding-bottom: 0%;
+    border-radius: 3%;
+    padding: 20px 20px 10px;
+    display: block;
+    z-index: 1;
+    margin-top: 20px;
+}
+.vg-footer{
+    height: 10px;
+}
